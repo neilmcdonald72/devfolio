@@ -9,11 +9,11 @@ module.exports = {
     // Description that goes under your name in main bio
     description: `Software Developer - Student`,
     // Optional: Twitter account handle
-    author: `@rfitzio`,
+    //author: `@rfitzio`,
     // Optional: Github account URL
     github: `https://github.com/neilmcdonald72`,
     // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
+    //linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
     // Content of the About Me section
     about: `Welcome to my developing portfolio site! I am a student at NSCC and after many years of learning, 
     I am excited about looking for my first professional development role.\n
