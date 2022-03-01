@@ -18,14 +18,14 @@ module.exports = {
     about: `Welcome to my developing portfolio site! I am a student at NSCC and after many years of learning, 
     I am excited about looking for my first professional development role.\n
     I first began programming with Visual Basic 6 and Python in 2014 where I was mostly writing scripts for fun.
-    After nearly 4 years working in banking I finally decided to pursue my passion.`,
+    After nearly 4 years working in banking I finally decided to pursue my passion in software development.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Devfolio',
+        name: 'Laravel social media feed',
         description:
-          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'A basic CRUD web application that allows users to make, edit or delete their own posts. Admin accounts can edit and delete other users posts.',
+        link: 'https://github.com/neilmcdonald72/LaravelSocialMediaFeed',
       },
       {
         name: 'ChromeExtensionKit',
