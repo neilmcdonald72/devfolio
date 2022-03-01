@@ -15,7 +15,9 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `Welcome to my developing portfolio site. I am a student at NSCC and after many years of learning, 
+    I am excited about looking for my first professional development role. I was first introduced to programming with Visual Basic 6 and Python in 2014 where I was mostly writing scripts for fun.
+    After nearly 4 years working in banking I finally decided to pursue my passion.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
