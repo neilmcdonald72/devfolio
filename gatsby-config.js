@@ -31,13 +31,13 @@ module.exports = {
         name: 'Maze Solver',
         description:
           'A C++ program that solves mazes using a linked list stack data structure.',
-        link: 'https://chromeextensionkit.com/?ref=devfolio',
+        link: 'https://github.com/neilmcdonald72/MazeSolver',
       },
       {
-        name: 'Another Cool Project',
+        name: 'EcoSim',
         description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'A human vs zombie ecosystem simulator made with C++',
+        link: 'https://github.com/neilmcdonald72/EcoSim',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
@@ -49,12 +49,7 @@ module.exports = {
       {
         name: 'Stanton Solar',
         description: 'Web developer and office administrator, May 2021 - Present'
-        //link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
-      {
-        name: 'Hooli',
-        description: 'Full-Stack Developer, May 2015 - December 2017'
-        //link: 'https://github.com/RyanFitzgerald/devfolio',
+        
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
