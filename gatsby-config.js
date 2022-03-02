@@ -48,7 +48,13 @@ module.exports = {
       },
       {
         name: 'Stanton Solar',
-        description: 'Web developer and office administrator, May 2021 - Present'
+        description: 'Web developer and office administrator, May 2021 - Present',
+        link: 'https://github.com/RyanFitzgerald/devfolio',
+      },
+      {
+        name: 'Hooli',
+        description: 'Full-Stack Developer, May 2015 - December 2017',
+        link: 'https://github.com/RyanFitzgerald/devfolio',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
