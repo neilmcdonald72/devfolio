@@ -18,7 +18,7 @@ module.exports = {
     about: `Welcome to my developing portfolio site! I am a student at NSCC and after many years of learning, 
     I am excited about looking for my first professional development role.\n
     I first began programming with Visual Basic 6 and Python in 2014 where I was mostly writing scripts for fun.
-    After nearly 4 years working in banking I finally decided to pursue my passion in software development.`,
+    After a previous career in banking I finally decided to pursue my passion in software and web development.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
@@ -28,9 +28,9 @@ module.exports = {
         link: 'https://github.com/neilmcdonald72/LaravelSocialMediaFeed',
       },
       {
-        name: 'ChromeExtensionKit',
+        name: 'Maze Solver',
         description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
+          'A C++ program that solves mazes using a linked list stack data structure.',
         link: 'https://chromeextensionkit.com/?ref=devfolio',
       },
       {
@@ -43,19 +43,12 @@ module.exports = {
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Acme Corp',
-        description: 'Full-Stack Developer, February 2020 - Present',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'CIBC',
+        description: 'Financial Service Representation, April 2017 - August 2020'
       },
       {
-        name: 'Globex Corp',
-        description: 'Full-Stack Developer, December 2017 - February 2020',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
-      {
-        name: 'Hooli',
-        description: 'Full-Stack Developer, May 2015 - December 2017',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Stanton Solar',
+        description: 'Web developer and office administrator, May 2021 - Present'
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
@@ -63,16 +56,16 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+          'Python, JavaScript, Python, C#, .NET, PHP, HTML5/CSS3',
       },
       {
         name: 'Databases',
-        description: 'MongoDB, PostreSQL, MySQL',
+        description: 'MySQL',
       },
       {
         name: 'Other',
         description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
+          'Git, Docker, AWS, Agile / Scrum',
       },
     ],
   },
