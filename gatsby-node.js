@@ -1,31 +1,31 @@
-const path = require(`path`);
-const { createFilePath } = require(`gatsby-source-filesystem`);
+// const path = require(`path`);
+// const { createFilePath } = require(`gatsby-source-filesystem`);
 
-exports.createPages = async ({ graphql, actions }) => {
-  const { createPage } = actions;
+// exports.createPages = async ({ graphql, actions }) => {
+//   const { createPage } = actions;
 
-  const blogPost = path.resolve(`./src/templates/blog-post.jsx`);
-  const result = await graphql(
-    `
-      {
-        allMarkdownRemark(
-          sort: { fields: [frontmatter___date], order: DESC }
-          limit: 1000
-        ) {
-          edges {
-            node {
-              fields {
-                slug
-              }
-              frontmatter {
-                title
-              }
-            }
-          }
-        }
-      }
-    `
-  );
+//   const blogPost = path.resolve(`./src/templates/blog-post.jsx`);
+//   const result = await graphql(
+//     `
+//       {
+//         allMarkdownRemark(
+//           sort: { fields: [frontmatter___date], order: DESC }
+//           limit: 1000
+//         ) {
+//           edges {
+//             node {
+//               fields {
+//                 slug
+//               }
+//               frontmatter {
+//                 title
+//               }
+//             }
+//           }
+//         }
+//       }
+//     `
+//   );
 
   if (result.errors) {
     throw result.errors;
