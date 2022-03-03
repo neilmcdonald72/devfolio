@@ -57,7 +57,7 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'Python, JavaScript, Python, C#, .NET, PHP, HTML5/CSS3',
+          'Python, JavaScript, Java, C#, C++, .NET, PHP, HTML5/CSS3',
       },
       {
         name: 'Databases',
