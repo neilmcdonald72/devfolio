@@ -17,7 +17,7 @@ module.exports = {
     // Content of the About Me section
     about: `Welcome to my developing portfolio site! I am a student at NSCC and after many years of learning, 
     I am excited about looking for my first professional development role.\n
-    I first began programming with Visual Basic 6 and Python in 2014 where I was mostly writing scripts for fun.
+    I first began programming with Visual Basic 6 and Python in 2014, writing scripts and games for fun.
     After a previous career in banking I finally decided to pursue my passion in software and web development.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
@@ -34,10 +34,10 @@ module.exports = {
         link: 'https://github.com/neilmcdonald72/MazeSolver',
       },
       {
-        name: 'EcoSim',
+        name: 'Brick Breaker',
         description:
-          'A human vs zombie ecosystem simulator made with C++',
-        link: 'https://github.com/neilmcdonald72/EcoSim',
+          'A classic game of brick breaker made with .NET C#',
+        link: 'https://github.com/neilmcdonald72/BrickBreaker',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
