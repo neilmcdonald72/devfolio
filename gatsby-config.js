@@ -16,7 +16,9 @@ module.exports = {
     //linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
     // Content of the About Me section
     about: `Welcome to my developing portfolio site! I am a student at NSCC and after
-     a previous career in banking I finally decided to pursue my passion in software and web development.`,
+     a previous career in banking I finally decided to pursue my passion in software and web development.\n
+     \n
+     Below are some things I've made and done. They'll probably come back to haunt me in a few years time.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
