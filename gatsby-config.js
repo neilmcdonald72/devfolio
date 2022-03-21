@@ -15,10 +15,8 @@ module.exports = {
     // Optional: LinkedIn account URL
     //linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
     // Content of the About Me section
-    about: `Welcome to my developing portfolio site! I am a student at NSCC and after many years of learning, 
-    I am excited about looking for my first professional development role.\n
-    I first began programming with Visual Basic 6 and Python in 2014, writing scripts and games for fun.
-    After a previous career in banking I finally decided to pursue my passion in software and web development.`,
+    about: `Welcome to my developing portfolio site! I am a student at NSCC and after
+     a previous career in banking I finally decided to pursue my passion in software and web development.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
@@ -57,7 +55,7 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'Python, JavaScript, Java, C#, C++, .NET, PHP, HTML5/CSS3',
+          'Python, JavaScript, Java, C#/.NET, C++, PHP, HTML5/CSS3',
       },
       {
         name: 'Databases',
