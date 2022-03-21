@@ -13,7 +13,7 @@ module.exports = {
     // Optional: Github account URL
     github: `https://github.com/neilmcdonald72`,
     // Optional: LinkedIn account URL
-    //linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
+    linkedin: `https://www.linkedin.com/in/neil-mcdonald-534310235/`,
     // Content of the About Me section
     about: `Welcome to my developing portfolio site! I am a student at NSCC and after
      a previous career in banking I finally decided to pursue my passion in software and web development.\n
