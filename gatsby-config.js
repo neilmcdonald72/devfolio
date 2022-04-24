@@ -22,7 +22,7 @@ module.exports = {
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Laravel social media feed',
+        name: 'Laravel Social Media Feed',
         description:
           'A basic CRUD web application that allows users to make, edit or delete their own posts. Admin accounts can edit and delete other users posts.',
         link: 'https://github.com/neilmcdonald72/LaravelSocialMediaFeed',
@@ -30,7 +30,7 @@ module.exports = {
       {
         name: 'Local Note',
         description:
-          'A rich text editor built with .NET UWP framework using a MVVM architecture.',
+          'A rich text editor built with .NET UWP framework using an MVVM architecture.',
         link: 'https://github.com/neilmcdonald72/LocalNoteV2',
       },
       {
