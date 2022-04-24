@@ -28,9 +28,9 @@ module.exports = {
         link: 'https://github.com/neilmcdonald72/LaravelSocialMediaFeed',
       },
       {
-        name: 'Maze Solver',
+        name: 'Local Note',
         description:
-          'A C++ program that solves mazes using a linked list stack data structure.',
+          'A rich text editor built with .NET UWP framework using a MVVM architecture.',
         link: 'https://github.com/neilmcdonald72/MazeSolver',
       },
       {
