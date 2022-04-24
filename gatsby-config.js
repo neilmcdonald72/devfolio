@@ -31,13 +31,13 @@ module.exports = {
         name: 'Local Note',
         description:
           'A rich text editor built with .NET UWP framework using a MVVM architecture.',
-        link: 'https://github.com/neilmcdonald72/MazeSolver',
+        link: 'https://github.com/neilmcdonald72/LocalNoteV2',
       },
       {
-        name: 'Brick Breaker',
+        name: 'Maze Solver',
         description:
           'A classic game of brick breaker made with .NET C#',
-        link: 'https://github.com/neilmcdonald72/BrickBreaker',
+        link: 'https://github.com/neilmcdonald72/MazeSolver',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
