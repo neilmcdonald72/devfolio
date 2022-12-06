@@ -5,7 +5,7 @@ module.exports = {
     // Your Name
     name: 'Neil McDonald',
     // Main Site Title
-    title: `Neil McDonald | Software Developer`,
+    title: `Neil McDonald | Mobile Application Developer`,
     // Description that goes under your name in main bio
     description: `Software Developer - Student`,
     // Optional: Twitter account handle
@@ -15,8 +15,8 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/neil-mcdonald-534310235/`,
     // Content of the About Me section
-    about: `Welcome to my developing portfolio site! I am a student at NSCC and after
-     a previous career in banking I finally decided to pursue my passion in software and web development.\n
+    about: `Welcome to my developing portfolio site! I am a professional Mobile App Developer with a passion for developing applications
+     for a variety of different platforms.\n
      \n
      Below are some things I've made and done. They'll probably come back to haunt me in a few years time.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
