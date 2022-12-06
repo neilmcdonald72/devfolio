@@ -22,10 +22,10 @@ module.exports = {
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Laravel Social Media Feed',
+        name: 'Nature Walk App',
         description:
-          'A basic CRUD web application that allows users to make, edit or delete their own posts. Admin accounts can edit and delete other users posts.',
-        link: 'https://github.com/neilmcdonald72/LaravelSocialMediaFeed',
+          'A cross-platform mobile app built with React Native and NodeJS. Users can upload photos and view a feed of posts from other users.',
+        link: 'https://github.com/niemelaig123/NatureWalkApp',
       },
       {
         name: 'Local Note',
@@ -43,30 +43,34 @@ module.exports = {
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'CIBC',
-        description: 'Financial Service Representation, April 2017 - August 2020'
+        name: 'Savormetrics',
+        description: 'Mobile Application Developer, May 2022 - Present'
       },
       {
-        name: 'Stanton Solar',
-        description: 'Web developer and office administrator, May 2021 - Present'
+        name: 'Project Blackbird',
+        description: 'Web Developer Intern, April 2022 - May 2022'
         
       },
+      {
+        name: 'CIBC',
+        description: 'Financial Service Representative, April 2017 - August 2020'
+      }
     ],
     // Optional: List your skills, they must have `name` and `description`.
     skills: [
       {
         name: 'Languages & Frameworks',
         description:
-          'Python, JavaScript, Java, C#/.NET, C++, PHP, HTML5/CSS3',
+          'JavaScript, Java/Kotlin/Android, ReactJS, React Native, C#/.NET, C++, PHP',
       },
       {
         name: 'Databases',
-        description: 'MySQL',
+        description: 'MySQL, MongoDB',
       },
       {
         name: 'Other',
         description:
-          'Git, Docker, AWS, Agile / Scrum',
+          'Git, AWS',
       },
     ],
   },
